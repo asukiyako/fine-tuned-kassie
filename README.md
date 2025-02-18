@@ -9,9 +9,9 @@ library_name: peft
 
 ## Installation
 **Note**: Make sure you have python and pip installed
-```python
+```py
 git clone https://github.com/asukiyako/fine-tuned-kassie.git
-cd ine-tuned-kassie
+cd fine-tuned-kassie
 create a virtual environment
 pip install -r requirements.txt
 python start_kassie.py
