@@ -8,7 +8,7 @@ library_name: peft
 <!-- Provide a quick summary of what the model is/does. -->
 
 ## Installation
-**Note**: Make sure you have python and pip installed
+**Note**: Make sure you have python, git and pip installed
 ```py
 git clone https://github.com/asukiyako/fine-tuned-kassie.git
 cd fine-tuned-kassie
